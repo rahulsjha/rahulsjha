@@ -259,12 +259,6 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/rahulsjha">
-        <img src="https://github-readme-stats.vercel.app/api?username=rahulsjha&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
       <h3><strong>Streak Stats</strong></h3>
       <a href="https://github.com/rahulsjha">
         <img src="https://streak-stats.demolab.com?user=rahulsjha&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -274,14 +268,7 @@
   <tr>
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/rahulsjha/multi-format-ai-agents">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsjha&repo=multi-format-ai-agents&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
-      </a>
-    </td>
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/rahulsjha">
-        <img src="https://github-contributor-stats.vercel.app/api?username=rahulsjha&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+      <a href="https://github.com/rahulsjha/Contracts-Life-Cycle-Management-Backend">
       </a>
     </td>
   </tr>
