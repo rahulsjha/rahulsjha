@@ -265,13 +265,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/rahulsjha/Contracts-Life-Cycle-Management-Backend">
-      </a>
-    </td>
-  </tr>
 </table>
 <br />
 
