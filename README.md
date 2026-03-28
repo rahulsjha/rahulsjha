@@ -52,15 +52,222 @@
   
 <br />
 <br />
+
+---
+
+<!--Work Experience Section-->
+<h2 align="center">💼 Work Experience 💼</h2>
+
+<h3><strong>Bellagio Plaza</strong></h3>
+<p><em>March 2026 - Present | AI Engineer</em></p>
+<ul>
+  <li>Building web applications that don't fall apart under load — React, Next.js frontends paired with Django backends that can handle real-world chaos. Reduced API latency by 60% through aggressive caching and query optimization</li>
+  <li>Shipping AI features that actually solve problems — not just calling APIs. Generative AI for document processing, Agentic AI for multi-step workflows, RAG systems that find needles in data haystacks</li>
+  <li>Designing APIs and systems that scale. Connection pooling, caching strategies, query optimization — the unglamorous stuff that makes the difference between a product that works and one that breaks at 3 AM</li>
+  <li>Working with teams to ship fast without breaking things. I care about getting to production quickly but not at the cost of technical debt that'll haunt us later</li>
+  <li>Real production support — I don't just throw code over the fence. I debug issues, profile bottlenecks, and own the reliability of what ships</li>
+</ul>
+
+<h3><strong>OddSup</strong></h3>
+<p><em>September 2023 - February 2026 | Agentic & Generative AI Engineer</em></p>
+<ul>
+  <li>Built and maintained applications that actually work across browsers, reaching 15k+ monthly users. React components, mobile-first designs, the stuff users see and touch</li>
+  <li>Designed backend APIs that don't leak secrets (proper auth, validation) and can handle growth without falling over (MongoDB aggregations, query optimization)</li>
+  <li>Shipped forecasting pipelines using Python + scikit-learn. Took business problems (demand prediction, sentiment analysis) and turned them into production ML systems</li>
+  <li>Worked through the entire lifecycle — from understanding what customers actually need to deploying it and keeping it running. Got comfortable with both the shiny new code and the mess of production systems</li>
+  <li>Got comfortable with ambiguity. Early-stage startup meant wearing multiple hats, shipping fast, and iterating based on real usage</li>
+</ul>
+
 <br />
 
+---
 
+<!--Skills Section-->
+<h2 align="center">🛠️ Technical Skills 🛠️</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3><strong>Frontend Development</strong></h3>
+      <ul>
+        <li>React</li>
+        <li>Next.js</li>
+        <li>TypeScript</li>
+        <li>JavaScript ES6+</li>
+        <li>Redux Toolkit</li>
+        <li>Component Architecture</li>
+        <li>Server-Side Rendering</li>
+        <li>Static Site Generation</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3><strong>Backend Development</strong></h3>
+      <ul>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>Python</li>
+        <li>Django</li>
+        <li>Django REST Framework</li>
+        <li>RESTful API Design</li>
+        <li>GraphQL</li>
+        <li>API Gateway</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><strong>Database & Data</strong></h3>
+      <ul>
+        <li>MongoDB</li>
+        <li>PostgreSQL</li>
+        <li>SQL Queries</li>
+        <li>NoSQL Databases</li>
+        <li>Redis</li>
+        <li>Query Optimization</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3><strong>Docker & DevOps</strong></h3>
+      <ul>
+        <li>Docker</li>
+        <li>Docker Compose</li>
+        <li>Containerization</li>
+        <li>Container Orchestration</li>
+        <li>CI/CD Pipelines</li>
+        <li>GitHub Actions</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><strong>Generative AI</strong></h3>
+      <ul>
+        <li>Large Language Models (LLMs)</li>
+        <li>OpenAI API Integration</li>
+        <li>GPT Models</li>
+        <li>Text Generation</li>
+        <li>Prompt Engineering</li>
+        <li>LLM Fine-tuning</li>
+        <li>Retrieval Augmented Generation (RAG)</li>
+        <li>Vector Embeddings</li>
+        <li>Semantic Search</li>
+        <li>LangChain</li>
+        <li>LlamaIndex</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3><strong>Agentic AI</strong></h3>
+      <ul>
+        <li>AI Agents</li>
+        <li>Agent Orchestration</li>
+        <li>LangGraph</li>
+        <li>ReAct Pattern</li>
+        <li>Tool Integration</li>
+        <li>Function Calling</li>
+        <li>Agent Frameworks</li>
+        <li>Multi-step Reasoning</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><strong>Natural Language Processing</strong></h3>
+      <ul>
+        <li>Text Classification</li>
+        <li>Sentiment Analysis</li>
+        <li>Named Entity Recognition (NER)</li>
+        <li>Text Preprocessing</li>
+        <li>Tokenization</li>
+        <li>Word Embeddings</li>
+        <li>Transformer Models</li>
+        <li>BERT</li>
+        <li>Text Summarization</li>
+        <li>Question Answering</li>
+        <li>NLTK</li>
+        <li>spaCy</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3><strong>Machine Learning</strong></h3>
+      <ul>
+        <li>ML Models</li>
+        <li>Supervised Learning</li>
+        <li>Unsupervised Learning</li>
+        <li>Classification</li>
+        <li>Regression</li>
+        <li>Clustering</li>
+        <li>Feature Engineering</li>
+        <li>Data Preprocessing</li>
+        <li>Model Evaluation</li>
+        <li>Time Series Forecasting</li>
+        <li>Scikit-learn</li>
+        <li>TensorFlow & PyTorch</li>
+        <li>Pandas, NumPy, Matplotlib, Seaborn</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br />
 <br clear="both"/>
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">� My Recent Projects 📁</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3><strong>Contracts Life Cycle Management (CLM)</strong></h3>
+      <p><strong>Problem:</strong> Enterprise legal teams wasted 15+ hours/week on manual contract tracking, review workflows, and compliance checks.</p>
+      <p><strong>Solution:</strong> Built production-grade CLM platform with Django backend (PostgreSQL + Redis + Celery) handling concurrent 10+ users processing 100+ contracts monthly. Async task queue reducing analysis from 40s → 2s.</p>
+      <p><strong>Impact:</strong> 95% reduction in processing time. 40% faster review cycles.</p>
+      <p><strong>Tech:</strong> Next.js, React, TypeScript, Django, PostgreSQL, Redis, Celery</p>
+    </td>
+    <td width="50%">
+      <h3><strong>WriteByHand</strong></h3>
+      <p><strong>Problem:</strong> Students & professionals needed realistic handwriting conversion for assignments.</p>
+      <p><strong>Solution:</strong> SaaS platform converting typed text to handwriting with 99%+ accuracy. Built React canvas engine, Django backend with Stripe integration managing 500+ subscriptions.</p>
+      <p><strong>Impact:</strong> 20+ users. 4.8/5 star rating. PDF, PNG, DOC exports.</p>
+      <p><strong>Tech:</strong> React, TypeScript, Django, PostgreSQL, Redis, Docker</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><strong>Statyx</strong></h3>
+      <p><strong>Problem:</strong> Sports analytics fragmented across multiple platforms.</p>
+      <p><strong>Solution:</strong> Real-time analytics platform ingesting 100k+ data points/day. Redux state management for 50+ concurrent users. PostgreSQL optimization reducing response from 800ms → 150ms.</p>
+      <p><strong>Impact:</strong> 15+ sports organizations. 99.5% uptime SLA. Dashboard loads in <2s.</p>
+      <p><strong>Tech:</strong> React, TypeScript, Vite, Redux Toolkit, Django, PostgreSQL</p>
+    </td>
+    <td width="50%">
+      <h3><strong>MERN Charts</strong></h3>
+      <p><strong>Problem:</strong> Building scalable dashboards requires complex state management and real-time data sync.</p>
+      <p><strong>Solution:</strong> Full-stack analytics dashboard handling 500+ concurrent sessions. Redux Toolkit reducing renders by 70%. MongoDB aggregation generating reports in <500ms.</p>
+      <p><strong>Impact:</strong> 400+ GitHub stars. Production-ready template.</p>
+      <p><strong>Tech:</strong> MongoDB, Express, React, Node.js, Redux Toolkit, Material UI, Nivo Charts</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><strong>Structured Sentiment Analysis</strong></h3>
+      <p><strong>Problem:</strong> Unstructured sentiment analysis lacks actionable insights.</p>
+      <p><strong>Solution:</strong> ML pipeline classifying 10k+ reviews/week with 92% accuracy. BERT fine-tuning improving F1 score from 0.78 → 0.88.</p>
+      <p><strong>Impact:</strong> Deployed in 3 production systems.</p>
+      <p><strong>Tech:</strong> Python, NLP, BERT, Transformers, Machine Learning</p>
+    </td>
+    <td width="50%">
+      <h3><strong>Store Sales Time Series Forecasting</strong></h3>
+      <p><strong>Problem:</strong> Retail demand forecasting accuracy directly impacts inventory & revenue. Standard models achieved 15-20% MAPE error.</p>
+      <p><strong>Solution:</strong> Ensemble time-series model (ARIMA + XGBoost) achieving 8.2% MAPE on 1,000+ stores. Feature engineering extracting 50+ temporal features.</p>
+      <p><strong>Impact:</strong> Improved forecast accuracy from 15-20% MAPE to 8.2% MAPE.</p>
+      <p><strong>Tech:</strong> Python, Time Series, XGBoost, Scikit-learn, Pandas</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h2 align="center">�📊 GitHub Stats 📊</h2>
 
 <table width="100%">
   <tr>
