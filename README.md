@@ -21,8 +21,6 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rahulsjha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="rahulsjha" style="padding-right:20px;" />
 </p>
 
 <!--Languages and Tools Section-->       
