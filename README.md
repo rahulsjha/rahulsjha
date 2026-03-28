@@ -198,6 +198,7 @@
       <p><strong>Impact:</strong> 20+ users. 4.8/5 star rating. PDF, PNG, DOC exports.</p>
       <p><strong>Tech:</strong> React, TypeScript, Django, PostgreSQL, Redis, Docker</p>
       <p>
+        <a href="https://writebyhand.com/">Live</a> | 
         <a href="https://github.com/rahulsjha/writebyhand-Frontend">Frontend</a> | 
         <a href="https://github.com/rahulsjha/Writebyhand-Backend">Backend</a>
       </p>
@@ -234,6 +235,9 @@
       <p><strong>Solution:</strong> ML pipeline classifying 10k+ reviews/week with 92% accuracy. BERT fine-tuning improving F1 score from 0.78 → 0.88.</p>
       <p><strong>Impact:</strong> Deployed in 3 production systems.</p>
       <p><strong>Tech:</strong> Python, NLP, BERT, Transformers, Machine Learning</p>
+      <p>
+        <a href="https://github.com/rahulsjha/Structured-Sentiment-Analysis">Repository</a>
+      </p>
     </td>
     <td width="50%">
       <h3><strong>Store Sales Time Series Forecasting</strong></h3>
@@ -287,7 +291,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulsjha&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulsjha&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius:15px;">
 </div>
 
 ---
