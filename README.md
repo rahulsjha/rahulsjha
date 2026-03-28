@@ -7,50 +7,26 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Suhaib! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ RAHUL JHA! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with strong expertise in Next.js, React.js, Node.js, Express, and Python, along with experience in building APIs and backend systems.</p>
 
-- ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [Once UI](https://once-ui.com)
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://ceo.pronexus.in) for more details about me.
+- 💻 Visit my [Portfolio](https://www.rahuljha.online/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Suhaib3100&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=rahulsjha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="rahulsjha" style="padding-right:20px;" />
 </p>
 
----
-
-
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Expanding my expertise in Next.js for full-stack development.</li>
-  <li>Deepening my understanding of Python OOP concepts.</li>
-  <li>Enhancing my backend skills with Express and API development.</li>
-  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
-  <li>Learning about serverless functions and microservices architecture.</li>
-  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
-  <li>Integrating OpenAI APIs with tools like Typebot for chatbot automation.</li>
-  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
-</ul>
-  
-<br />
+<h2 align="center">🎓 About Me</h2> 
 <br />
 
 ---
@@ -58,18 +34,8 @@
 <!--Work Experience Section-->
 <h2 align="center">💼 Work Experience 💼</h2>
 
-<h3><strong>Bellagio Plaza</strong></h3>
-<p><em>March 2026 - Present | AI Engineer</em></p>
-<ul>
-  <li>Building web applications that don't fall apart under load — React, Next.js frontends paired with Django backends that can handle real-world chaos. Reduced API latency by 60% through aggressive caching and query optimization</li>
-  <li>Shipping AI features that actually solve problems — not just calling APIs. Generative AI for document processing, Agentic AI for multi-step workflows, RAG systems that find needles in data haystacks</li>
-  <li>Designing APIs and systems that scale. Connection pooling, caching strategies, query optimization — the unglamorous stuff that makes the difference between a product that works and one that breaks at 3 AM</li>
-  <li>Working with teams to ship fast without breaking things. I care about getting to production quickly but not at the cost of technical debt that'll haunt us later</li>
-  <li>Real production support — I don't just throw code over the fence. I debug issues, profile bottlenecks, and own the reliability of what ships</li>
-</ul>
-
 <h3><strong>OddSup</strong></h3>
-<p><em>September 2023 - February 2026 | Agentic & Generative AI Engineer</em></p>
+<p><em>September 2023 - present | Agentic & Generative AI Engineer</em></p>
 <ul>
   <li>Built and maintained applications that actually work across browsers, reaching 15k+ monthly users. React components, mobile-first designs, the stuff users see and touch</li>
   <li>Designed backend APIs that don't leak secrets (proper auth, validation) and can handle growth without falling over (MongoDB aggregations, query optimization)</li>
@@ -222,6 +188,11 @@
       <p><strong>Solution:</strong> Built production-grade CLM platform with Django backend (PostgreSQL + Redis + Celery) handling concurrent 10+ users processing 100+ contracts monthly. Async task queue reducing analysis from 40s → 2s.</p>
       <p><strong>Impact:</strong> 95% reduction in processing time. 40% faster review cycles.</p>
       <p><strong>Tech:</strong> Next.js, React, TypeScript, Django, PostgreSQL, Redis, Celery</p>
+      <p>
+        <a href="https://verdant-douhua-1148be.netlify.app/dashboard/">Live</a> | 
+        <a href="https://github.com/rahulsjha/Contracts-Life-Cycle-Management-Frontend">Frontend</a> | 
+        <a href="https://github.com/rahulsjha/Contracts-Life-Cycle-Management-Backend">Backend</a>
+      </p>
     </td>
     <td width="50%">
       <h3><strong>WriteByHand</strong></h3>
@@ -229,6 +200,11 @@
       <p><strong>Solution:</strong> SaaS platform converting typed text to handwriting with 99%+ accuracy. Built React canvas engine, Django backend with Stripe integration managing 500+ subscriptions.</p>
       <p><strong>Impact:</strong> 20+ users. 4.8/5 star rating. PDF, PNG, DOC exports.</p>
       <p><strong>Tech:</strong> React, TypeScript, Django, PostgreSQL, Redis, Docker</p>
+      <p>
+        <a href="https://github.com/rahulsjha/writebyhand-Frontend">Frontend</a> | 
+        <a href="https://github.com/rahulsjha/Writebyhand-Backend">Backend</a>
+        <a href="https://writebyhand.in/">Backend</a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -238,6 +214,11 @@
       <p><strong>Solution:</strong> Real-time analytics platform ingesting 100k+ data points/day. Redux state management for 50+ concurrent users. PostgreSQL optimization reducing response from 800ms → 150ms.</p>
       <p><strong>Impact:</strong> 15+ sports organizations. 99.5% uptime SLA. Dashboard loads in <2s.</p>
       <p><strong>Tech:</strong> React, TypeScript, Vite, Redux Toolkit, Django, PostgreSQL</p>
+      <p>
+        <a href="https://statyx.io/">Live</a> | 
+        <a href="https://github.com/rahulsjha/statyx-Frontend">Frontend</a> | 
+        <a href="https://github.com/rahulsjha/statyx-Backend">Backend</a>
+      </p>
     </td>
     <td width="50%">
       <h3><strong>MERN Charts</strong></h3>
@@ -245,22 +226,27 @@
       <p><strong>Solution:</strong> Full-stack analytics dashboard handling 500+ concurrent sessions. Redux Toolkit reducing renders by 70%. MongoDB aggregation generating reports in <500ms.</p>
       <p><strong>Impact:</strong> 400+ GitHub stars. Production-ready template.</p>
       <p><strong>Tech:</strong> MongoDB, Express, React, Node.js, Redux Toolkit, Material UI, Nivo Charts</p>
+      <p>
+        <a href="https://github.com/rahulsjha/MernCharts">Repository</a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><strong>Structured Sentiment Analysis</strong></h3>
       <p><strong>Problem:</strong> Unstructured sentiment analysis lacks actionable insights.</p>
-      <p><strong>Solution:</strong> ML pipeline classifying 10k+ reviews/week with 92% accuracy. BERT fine-tuning improving F1 score from 0.78 → 0.88.</p>
+      <p><strong>Solution:</strong> ML pipeline classifying with reviews/week with 92% accuracy. BERT fine-tuning improving F1 score from 0.78 → 0.88.</p>
       <p><strong>Impact:</strong> Deployed in 3 production systems.</p>
       <p><strong>Tech:</strong> Python, NLP, BERT, Transformers, Machine Learning</p>
     </td>
     <td width="50%">
       <h3><strong>Store Sales Time Series Forecasting</strong></h3>
       <p><strong>Problem:</strong> Retail demand forecasting accuracy directly impacts inventory & revenue. Standard models achieved 15-20% MAPE error.</p>
-      <p><strong>Solution:</strong> Ensemble time-series model (ARIMA + XGBoost) achieving 8.2% MAPE on 1,000+ stores. Feature engineering extracting 50+ temporal features.</p>
       <p><strong>Impact:</strong> Improved forecast accuracy from 15-20% MAPE to 8.2% MAPE.</p>
       <p><strong>Tech:</strong> Python, Time Series, XGBoost, Scikit-learn, Pandas</p>
+       <p>
+        <a href="https://github.com/rahulsjha/Structured-Sentiment-Analysis">Repository</a>
+      </p>
     </td>
   </tr>
 </table>
