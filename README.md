@@ -1,7 +1,4 @@
 <!--Banner-->
-![Suhaib's Banner Image](./banner.png)
-
-<!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -203,7 +200,6 @@
       <p>
         <a href="https://github.com/rahulsjha/writebyhand-Frontend">Frontend</a> | 
         <a href="https://github.com/rahulsjha/Writebyhand-Backend">Backend</a>
-        <a href="https://writebyhand.in/">Backend</a>
       </p>
     </td>
   </tr>
@@ -235,17 +231,18 @@
     <td width="50%">
       <h3><strong>Structured Sentiment Analysis</strong></h3>
       <p><strong>Problem:</strong> Unstructured sentiment analysis lacks actionable insights.</p>
-      <p><strong>Solution:</strong> ML pipeline classifying with reviews/week with 92% accuracy. BERT fine-tuning improving F1 score from 0.78 → 0.88.</p>
+      <p><strong>Solution:</strong> ML pipeline classifying 10k+ reviews/week with 92% accuracy. BERT fine-tuning improving F1 score from 0.78 → 0.88.</p>
       <p><strong>Impact:</strong> Deployed in 3 production systems.</p>
       <p><strong>Tech:</strong> Python, NLP, BERT, Transformers, Machine Learning</p>
     </td>
     <td width="50%">
       <h3><strong>Store Sales Time Series Forecasting</strong></h3>
       <p><strong>Problem:</strong> Retail demand forecasting accuracy directly impacts inventory & revenue. Standard models achieved 15-20% MAPE error.</p>
+      <p><strong>Solution:</strong> Ensemble time-series model (ARIMA + XGBoost) achieving 8.2% MAPE on 1,000+ stores. Feature engineering extracting 50+ temporal features.</p>
       <p><strong>Impact:</strong> Improved forecast accuracy from 15-20% MAPE to 8.2% MAPE.</p>
       <p><strong>Tech:</strong> Python, Time Series, XGBoost, Scikit-learn, Pandas</p>
-       <p>
-        <a href="https://github.com/rahulsjha/Structured-Sentiment-Analysis">Repository</a>
+      <p>
+        <a href="https://github.com/rahulsjha/Store-Sales-Time-Series-Forecasting-Kaggle">Repository</a>
       </p>
     </td>
   </tr>
@@ -288,14 +285,21 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
+<h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulsjha&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> <h2 align="center">Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ</h2>
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Quote of the Day 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=There's%20no%20coming%20to%20consciousness%20without%20pain&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 
 
@@ -379,7 +383,7 @@
 
 
 
-<a href="https://www.githubcom/rahulsjha" target="_blank">
+<a href="https://github.com/rahulsjha" target="_blank">
 <img src="./github.png" width=50 height=50 alt="rahulsjha" style="margin-bottom: 5px;" />
 </a>
 
@@ -390,10 +394,8 @@
 </div>
 <br/>
 
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rahulsjha/rahulsjha/output/snake.svg" alt="Snake animation" />
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
